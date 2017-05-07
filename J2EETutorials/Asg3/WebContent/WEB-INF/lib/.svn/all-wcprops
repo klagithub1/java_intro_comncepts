@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/soen387/!svn/ver/2/Asg3/WebContent/WEB-INF/lib
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/soen387/!svn/ver/2/Asg3/WebContent/WEB-INF/lib/standard.jar
+END
+SoenEA2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/soen387/!svn/ver/2/Asg3/WebContent/WEB-INF/lib/SoenEA2.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/soen387/!svn/ver/2/Asg3/WebContent/WEB-INF/lib/jstl.jar
+END
+mysql-connector-java-5.1.13-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/soen387/!svn/ver/2/Asg3/WebContent/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar
+END

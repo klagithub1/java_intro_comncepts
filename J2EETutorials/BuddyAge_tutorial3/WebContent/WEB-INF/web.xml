@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>DoItAllServlet</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>BrowsePeopleController</display-name>
+    <servlet-name>BrowsePeopleController</servlet-name>
+    <servlet-class>org.soenea.doitall.application.BrowsePeopleController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>BrowsePeopleController</servlet-name>
+    <url-pattern>/BrowsePeopleController</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ViewPersonController</display-name>
+    <servlet-name>ViewPersonController</servlet-name>
+    <servlet-class>org.soenea.doitall.application.ViewPersonController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ViewPersonController</servlet-name>
+    <url-pattern>/ViewPersonController</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>IncreaseAgeController</display-name>
+    <servlet-name>IncreaseAgeController</servlet-name>
+    <servlet-class>org.soenea.doitall.application.IncreaseAgeController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>IncreaseAgeController</servlet-name>
+    <url-pattern>/IncreaseAgeController</url-pattern>
+  </servlet-mapping>
+</web-app>

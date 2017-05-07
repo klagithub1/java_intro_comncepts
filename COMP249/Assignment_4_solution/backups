@@ -1,0 +1,33 @@
+ public void assumingCorrectNumberFormats(ActionEvent e)
+    {
+        String actionCommand = e.getActionCommand( );
+
+        if (actionCommand.equals("+"))
+        {
+            result = result + stringToDouble(ioField.getText( ));
+            ioField.setText(Double.toString(result));
+        }
+        else if (actionCommand.equals("-"))
+        {
+            result = result - stringToDouble(ioField.getText( ));
+            ioField.setText(Double.toString(result));
+
+        }
+        else if (actionCommand.equals("Reset"))
+        {
+            result = 0.0;
+            ioField.setText("0.0");
+        }
+        else if (actionCommand.equals("*"))
+        {
+        	result = result * stringToDouble(ioField.getText( ));
+            ioField.setText(Double.toString(result));
+        }
+        else if (actionCommand.equals("/"))
+        {
+        	result = result / stringToDouble(ioField.getText( ));
+            ioField.setText(Double.toString(result));
+        }
+        else
+            ioField.setText("Unexpected error.");
+     }

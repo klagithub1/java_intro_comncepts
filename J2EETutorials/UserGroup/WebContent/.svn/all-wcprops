@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/soen387/!svn/ver/32/UserGroup/WebContent
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/soen387/!svn/ver/15/UserGroup/WebContent/init.sql
+END
+browsegroup.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/soen387/!svn/ver/32/UserGroup/WebContent/browsegroup.html
+END
+editgroup.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/soen387/!svn/ver/32/UserGroup/WebContent/editgroup.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/soen387/!svn/ver/32/UserGroup/WebContent/index.html
+END
+removeuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/soen387/!svn/ver/20/UserGroup/WebContent/removeuser.html
+END
+addgroup.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/soen387/!svn/ver/32/UserGroup/WebContent/addgroup.html
+END
+adduser.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/soen387/!svn/ver/32/UserGroup/WebContent/adduser.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/soen387/!svn/ver/21/UserGroup/WebContent/logout.html
+END

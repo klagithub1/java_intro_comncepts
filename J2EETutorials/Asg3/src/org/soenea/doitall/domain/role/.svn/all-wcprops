@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/soen387/!svn/ver/7/Asg3/src/org/soenea/doitall/domain/role
+END
+MemberRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/soen387/!svn/ver/7/Asg3/src/org/soenea/doitall/domain/role/MemberRole.java
+END
+AdminRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/soen387/!svn/ver/7/Asg3/src/org/soenea/doitall/domain/role/AdminRole.java
+END
+GuildlessRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen387/!svn/ver/7/Asg3/src/org/soenea/doitall/domain/role/GuildlessRole.java
+END

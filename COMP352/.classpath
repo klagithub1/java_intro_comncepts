@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="C352Assignments/src"/>
+	<classpathentry kind="src" path="C352Lect2"/>
+	<classpathentry kind="src" path="C352Lect3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="C352Lect3"/>
+</classpath>

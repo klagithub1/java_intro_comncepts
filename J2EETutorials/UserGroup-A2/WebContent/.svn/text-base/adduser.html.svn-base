@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>User Group ver 1.0</title>
+</head>
+<body>
+	<h1>User Group Application - Add a new User</h1>
+	
+	<hr />
+	<!-- Add User Panel -->
+	<div id="addUserBox" style="background-color:white;">
+		<form action="AddUserController">
+			<table id="newUserTable">
+				<tr>
+					<td>Please fill in the user's information:</td>
+				</tr>
+				<tr>
+					<td>Id: <input name="id"/></td>
+				</tr>
+				<tr>
+					<td>Username: <input name="username"/></td>
+				</tr>
+				<tr>
+					<td>Password: <input name="password"/></td>
+				</tr>
+				<tr>
+					<td>First Name: <input name="firstname"/></td>
+				</tr>
+				<tr>
+					<td>Last Name: <input name="lastname"/></td>
+				</tr>
+				<tr>
+					<td>Admin Privileges (true/false): <input name="admin"/></td>
+				</tr>
+				<tr>
+					<td> <input type="submit" /></td>
+				</tr>
+			</table>
+		</form>
+		
+		<div id="copyright">
+			<copyright>(C) Klajdi Karanxha, Nicholas SoupHandavong, Kapies Vallipuram, Hussein Rida - SOEN387, Concordia University 2011</copyright>
+		</div>
+	</div>
+	
+</body>
+</html>

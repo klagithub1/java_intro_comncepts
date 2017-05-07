@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/soen387/!svn/ver/11/Asg3/src/org/soenea/doitall/domain/command
+END
+GroupCreateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/command/GroupCreateCommand.java
+END
+PersonAddCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/soen387/!svn/ver/13/Asg3/src/org/soenea/doitall/domain/command/PersonAddCommand.java
+END
+GroupRenameCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/command/GroupRenameCommand.java
+END
+PersonDeleteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/soen387/!svn/ver/14/Asg3/src/org/soenea/doitall/domain/command/PersonDeleteCommand.java
+END
+GroupDisbandCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/command/GroupDisbandCommand.java
+END
+GroupManageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/command/GroupManageCommand.java
+END
+GroupKickCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/command/GroupKickCommand.java
+END
+LoginCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/soen387/!svn/ver/7/Asg3/src/org/soenea/doitall/domain/command/LoginCommand.java
+END
+GroupBrowseCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/command/GroupBrowseCommand.java
+END
+PersonViewCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/soen387/!svn/ver/15/Asg3/src/org/soenea/doitall/domain/command/PersonViewCommand.java
+END

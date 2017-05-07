@@ -1,0 +1,18 @@
+<access> 
+<role name="org.dsrg.soenea.domain.role.impl.GuestRole"> 
+<command name="app.dispatcher.LoginDispatcher" /> 
+<command name="app.dispatcher.LogoutDispatcher" /> 
+</role> 
+ 
+<role name="org.soenea.doitall.domain.role.GuildlessRole"> 
+<command name="app.dispatcher.BrowseGuildDispatcher" /> 
+</role> 
+ 
+<role name="org.soenea.doitall.domain.role.MemberRole"> 
+<command name="app.dispatcher.ViewGuildDispatcher" /> 
+</role> 
+ 
+<role name="org.soenea.doitall.domain.role.AdminRole"> 
+<command name="app.dispatcher.AddUserDispatcher" /> 
+</role>  
+</access>

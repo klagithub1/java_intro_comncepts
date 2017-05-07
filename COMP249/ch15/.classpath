@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="iterator/|Cloneable/|Exercise 8/" kind="src" path=""/>
+	<classpathentry kind="src" path="Cloneable"/>
+	<classpathentry kind="src" path="Exercise 8"/>
+	<classpathentry kind="src" path="iterator"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

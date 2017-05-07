@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/soen387/!svn/ver/10/Asg3/WebContent
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/soen387/!svn/ver/10/Asg3/WebContent/init.sql
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/soen387/!svn/ver/10/Asg3/WebContent/error.jsp
+END
+invite.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/soen387/!svn/ver/10/Asg3/WebContent/invite.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/soen387/!svn/ver/10/Asg3/WebContent/login.jsp
+END
+group_invite.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/soen387/!svn/ver/10/Asg3/WebContent/group_invite.jsp
+END
+group_browse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/soen387/!svn/ver/10/Asg3/WebContent/group_browse.jsp
+END
+invite_form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/soen387/!svn/ver/10/Asg3/WebContent/invite_form.jsp
+END
+invite_details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/soen387/!svn/ver/10/Asg3/WebContent/invite_details.jsp
+END
+group_create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/soen387/!svn/ver/10/Asg3/WebContent/group_create.jsp
+END
+guildless_browse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/soen387/!svn/ver/10/Asg3/WebContent/guildless_browse.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/soen387/!svn/ver/10/Asg3/WebContent/index.html
+END
+user_create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/soen387/!svn/ver/10/Asg3/WebContent/user_create.jsp
+END
+invite_browse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/soen387/!svn/ver/10/Asg3/WebContent/invite_browse.jsp
+END
+group_manage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/soen387/!svn/ver/10/Asg3/WebContent/group_manage.jsp
+END

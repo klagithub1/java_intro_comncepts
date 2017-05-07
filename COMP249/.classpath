@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Assignment_1"/>
+	<classpathentry kind="src" path="Assignment_2"/>
+	<classpathentry kind="src" path="Assignment_3"/>
+	<classpathentry kind="src" path="Assignment_4_solution/src"/>
+	<classpathentry kind="src" path="Assignment_5/Question3"/>
+	<classpathentry kind="src" path="Assignment_5/src"/>
+	<classpathentry kind="src" path="C249Chpt10"/>
+	<classpathentry kind="src" path="C249Chpt11"/>
+	<classpathentry kind="src" path="C249Chpt13"/>
+	<classpathentry kind="src" path="C249Chpt14"/>
+	<classpathentry kind="src" path="C249Chpt15"/>
+	<classpathentry kind="src" path="C249Chpt16"/>
+	<classpathentry kind="src" path="C249Chpt17_18"/>
+	<classpathentry kind="src" path="C249Chpt7"/>
+	<classpathentry kind="src" path="C249Chpt8"/>
+	<classpathentry kind="src" path="C249Chpt9"/>
+	<classpathentry kind="src" path="ch01"/>
+	<classpathentry kind="src" path="ch02"/>
+	<classpathentry kind="src" path="ch03"/>
+	<classpathentry kind="src" path="ch04"/>
+	<classpathentry kind="src" path="ch05"/>
+	<classpathentry kind="src" path="ch06"/>
+	<classpathentry excluding="improved equals/" kind="src" path="ch07"/>
+	<classpathentry kind="src" path="ch07/improved equals"/>
+	<classpathentry kind="src" path="ch08"/>
+	<classpathentry kind="src" path="ch09"/>
+	<classpathentry kind="src" path="ch10"/>
+	<classpathentry kind="src" path="ch11"/>
+	<classpathentry kind="src" path="ch12"/>
+	<classpathentry kind="src" path="ch13"/>
+	<classpathentry excluding="Bounded Pair/" kind="src" path="ch14"/>
+	<classpathentry kind="src" path="ch14/Bounded Pair"/>
+	<classpathentry excluding="Exercise 8/|Cloneable/|iterator/" kind="src" path="ch15"/>
+	<classpathentry kind="src" path="ch15/Cloneable"/>
+	<classpathentry kind="src" path="ch15/Exercise 8"/>
+	<classpathentry kind="src" path="ch15/iterator"/>
+	<classpathentry kind="src" path="ch16"/>
+	<classpathentry kind="src" path="ch17"/>
+	<classpathentry kind="src" path="ch18"/>
+	<classpathentry kind="src" path="ch19"/>
+	<classpathentry kind="src" path="ch20_cd_and_online"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="ch20_cd_and_online"/>
+</classpath>

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/comp479/!svn/ver/56/trunk/src
+END
+TFIDFCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/comp479/!svn/ver/40/trunk/src/TFIDFCalc.java
+END
+KMeansClustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/comp479/!svn/ver/53/trunk/src/KMeansClustering.java
+END
+QueryVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/comp479/!svn/ver/53/trunk/src/QueryVector.java
+END
+MyResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/comp479/!svn/ver/33/trunk/src/MyResources.properties
+END
+ClusterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/comp479/!svn/ver/54/trunk/src/ClusterSet.java
+END
+StopWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/comp479/!svn/ver/2/trunk/src/StopWords.java
+END
+ValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/comp479/!svn/ver/33/trunk/src/ValueComparator.java
+END
+CustomTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/comp479/!svn/ver/7/trunk/src/CustomTokenizer.java
+END
+CustomInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/comp479/!svn/ver/44/trunk/src/CustomInstance.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/comp479/!svn/ver/2/trunk/src/Statistics.java
+END
+VectorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/comp479/!svn/ver/55/trunk/src/VectorSpace.java
+END
+OpenURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/comp479/!svn/ver/35/trunk/src/OpenURI.java
+END
+PostingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/comp479/!svn/ver/5/trunk/src/PostingList.java
+END
+BMCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/comp479/!svn/ver/53/trunk/src/BMCalc.java
+END
+DuplicateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/comp479/!svn/ver/33/trunk/src/DuplicateHandler.java
+END
+Gui.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/comp479/!svn/ver/56/trunk/src/Gui.java
+END
+DocVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/comp479/!svn/ver/38/trunk/src/DocVector.java
+END
+TestDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/comp479/!svn/ver/18/trunk/src/TestDriver.java
+END
+ClusteredCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/comp479/!svn/ver/18/trunk/src/ClusteredCollection.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/comp479/!svn/ver/6/trunk/src/Dictionary.java
+END
+KeyOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/comp479/!svn/ver/2/trunk/src/KeyOrdering.java
+END
+ReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/comp479/!svn/ver/6/trunk/src/ReadFile.java
+END

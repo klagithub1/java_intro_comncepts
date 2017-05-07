@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/model/group
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/model/group/Group.java
+END
+GroupProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/model/group/GroupProxy.java
+END
+GroupFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/model/group/GroupFactory.java
+END
+IGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/soen387/!svn/ver/8/Asg3/src/org/soenea/doitall/domain/model/group/IGroup.java
+END
